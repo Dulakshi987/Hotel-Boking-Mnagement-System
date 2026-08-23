@@ -1,7 +1,7 @@
 # Hotel-Room-Reservation-System
 
 
-# 🏨Hotel Room Reservation System
+# Hotel Room Reservation System
 
 A full-stack Hotel Room Reservation System developed as a **Second-Year Higher Diploma (HD) Final Group Project**. The system provides an efficient platform for hotel room booking, reservation management, payment processing, customer reviews, and administrative reporting.
 
